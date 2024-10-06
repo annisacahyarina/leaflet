@@ -67,7 +67,7 @@ export class HomePage {
     <b>Bubur Hayam</b><br>
     Kotabaru, Yogyakarta<br>
     <img src="https://cdn.idntimes.com/content-images/community/2022/09/fromandroid-0a11a821d695d32f75165ea3f79c286c.jpg" alt="Bubur Hayam" width="150" height="100"><br>
-    Tempat first date kita
+    Rekomendasi sarapan
       `;
   Marker.bindPopup(popupContent).openPopup();
 
